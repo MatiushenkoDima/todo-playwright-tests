@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# Playwright artifacts
+test-results/
+playwright-report/
+blob-report/
+trace.zip
+*.zip
+
+# OS / editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# environment
+.env
+.env.local
