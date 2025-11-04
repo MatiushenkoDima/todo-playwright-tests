@@ -17,7 +17,7 @@
 ## ⚙️ Установка и запуск
 
 ```bash
-git clone https://github.com/<your-username>/todo-playwright-tests.git
+git clone https://github.com/MatiushenkoDima/todo-playwright-tests.git
 
 cd todo-playwright-tests
 cd todo-playwright-tests
